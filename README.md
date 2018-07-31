@@ -1,2 +1,2 @@
 # demo_git
-Demo de GIT SLD qui se passe bien plutot
+Demo de GIT SLD qui se passe bien plutot et maintenant on modifie depuis github
